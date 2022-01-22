@@ -1,0 +1,20 @@
+body{
+	background:grey;
+	color:black;
+	margin-top: 5px;
+}
+.button{
+	color:green;
+}
+.mark{
+	font-size: 10px;
+	font-style: italic;
+	list-style: none;
+	background:grey;
+}
+.mark-complete{
+	font-size: 10px;
+	font-style: italic;
+	list-style: none;
+	background:grey;
+}
